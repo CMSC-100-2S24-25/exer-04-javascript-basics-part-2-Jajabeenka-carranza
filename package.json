@@ -12,10 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/CMSC-100-2S24-25/exer-04-javascript-basics-part-2-Jajabeenka-carranza.git"
-  },
   "author": "Jared Lev A. Carranza",
   "license": "ISC",
   "bugs": {
