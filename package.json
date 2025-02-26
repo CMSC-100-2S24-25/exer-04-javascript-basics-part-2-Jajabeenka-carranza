@@ -4,7 +4,6 @@
     "validator": "^13.12.0"
   },
   "name": "exer-04-javascript-basics-part-2-jajabeenka-carranza",
-  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TP0ZkiLb)",
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
@@ -13,9 +12,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jared Lev A. Carranza",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CMSC-100-2S24-25/exer-04-javascript-basics-part-2-Jajabeenka-carranza/issues"
-  },
-  "homepage": "https://github.com/CMSC-100-2S24-25/exer-04-javascript-basics-part-2-Jajabeenka-carranza#readme"
+  "license": "ISC"
 }
